@@ -1,0 +1,10 @@
+{
+    "validCredentials":{
+        "username": "techytash",
+        "password": "Natashia1234$"
+    },
+    "invalidCredentials": {
+        "username": "john", 
+        "password": "john@123"
+    }
+}
